@@ -1,3 +1,4 @@
+from .register import login_user, register_user
 from .parkarea import ParkAreas
-from .register import register_user
-from .register import login_user
+from .attraction import Attractions
+from .itinerary import Itineraries
